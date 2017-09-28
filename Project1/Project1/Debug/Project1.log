@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\231697\desktop\csci\project1\project1\source.cpp(45): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+c:\users\231697\desktop\csci\project1\project1\source.cpp(33): warning C4101: 'cheese': unreferenced local variable
+  Project1.vcxproj -> C:\Users\231697\Desktop\csci\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\231697\Desktop\csci\Project1\Debug\Project1.pdb (Partial PDB)
